@@ -54,13 +54,8 @@ ul {
   color: #434455;
 }
 
-.header-email:hover,
-.header-email:focus {
-  color: #404bbf;
-}
-
-.header-tel:hover,
-.header-tel:focus {
+.header-contact:hover,
+.header-contact:focus {
   color: #404bbf;
 }
 
@@ -102,6 +97,7 @@ ul {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  color: #2e2f42;
   text-align: center;
   text-transform: capitalize;
 }
@@ -111,12 +107,12 @@ ul {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .list-about-us .description {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 /* our team */
@@ -134,12 +130,12 @@ ul {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .list-our-team .description {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
 }
 
 /* our portfolio */
@@ -149,12 +145,12 @@ ul {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .list-our-portfolio .description {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #554943;
 }
 
 /* footer */
